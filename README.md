@@ -1,3 +1,7 @@
+# Local Usage (made by CCJ)
+`./make_flat_to_360.sh <input_file_path> <output_file_path>`
+
+
 # Spatial Media
 
 A collection of specifications and tools for 360&deg; video and spatial audio, including:
